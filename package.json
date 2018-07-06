@@ -1,0 +1,19 @@
+{
+  "name": "stock_watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongodb": "^3.1.0",
+    "nightmare": "^3.0.1",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "vo": "^4.0.2"
+  }
+}
